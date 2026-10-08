@@ -1,0 +1,13 @@
+
+
+Every new post from now on
+
+1. Create a new .md file in src/content/blog/ with the same top block as hello-world.md.
+2. Preview it with npm run dev.
+3. Publish it from the VS Code terminal:
+
+    git add .
+    git commit -m "New post"
+    git push
+
+A minute or two later it's live!
